@@ -14,3 +14,5 @@ Function :
 Installation 
 + NetFramwork 4.8
 + Window x64 or x32
+Video : https://youtu.be/VSM4w2rWpCs
+
